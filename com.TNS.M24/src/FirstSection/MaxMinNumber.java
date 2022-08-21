@@ -23,7 +23,7 @@ public class MaxMinNumber {
 		}
 		else
 		{
-			System.out.println(b+ " is Largest than "+a);
+			System.out.println(a+ " is Largest than "+b);
 			
 		}
 		
